@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vidnoz 上传迁移"
+  short_description: "迁移上传接口并定位多语言 tpl"
+  default_prompt: "使用 $vidnoz-upload-api-migration 审计或迁移 templates/new-template 的上传逻辑。先用 skill 内脚本定位英文基线页、runtime js 和多语言 tpl，再统一改用 common.js 的 apiGetUploadUrl / apiUploadFileWithSign，并补齐对应 tpl 的 Turnstile 脚本。"
+
+policy:
+  allow_implicit_invocation: true

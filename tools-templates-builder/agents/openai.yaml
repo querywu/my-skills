@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tools Templates Builder"
+  short_description: "Edit and build tools-templates static pages for backend TWIG integration"
+  default_prompt: "Use $tools-templates-builder to modify a page in tools-templates, treating it as a static-page source repo whose output is typically handed to the backend as TWIG templates, and follow the correct source and build workflow."

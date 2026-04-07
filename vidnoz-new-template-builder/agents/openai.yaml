@@ -1,0 +1,7 @@
+interface:
+  display_name: "Vidnoz 模板构建器"
+  short_description: "开发并优化 new-template 页面"
+  default_prompt: "使用 $vidnoz-new-template-builder 实现或优化 templates/new-template 下的页面。"
+
+policy:
+  allow_implicit_invocation: true
