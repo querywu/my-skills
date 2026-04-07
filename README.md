@@ -6,9 +6,9 @@
 
 | Skill | 描述 |
 | --- | --- |
-| [vidnoz-new-template-builder](./vidnoz-new-template-builder/SKILL.md) | Vidnoz `templates/new-template` 前端页面实现、修改与优化（tpl / Dev/js / Dev/scss / lan） |
-| [vidnoz-upload-api-migration](./vidnoz-upload-api-migration/SKILL.md) | Vidnoz 上传链路接口迁移，将旧 `ai/source/*` 调用规范化为 `apiGetUploadUrl` / `apiUploadFileWithSign` |
-| [tools-templates-builder](./tools-templates-builder/SKILL.md) | `tools-templates` 多品牌前端仓库（vidqu / vidnoz / ismartta / vidmud）的页面开发与统一构建 |
+| [vidnoz-new-template-builder](skills/vidnoz-new-template-builder/SKILL.md) | Vidnoz `templates/new-template` 前端页面实现、修改与优化（tpl / Dev/js / Dev/scss / lan） |
+| [vidnoz-upload-api-migration](skills/vidnoz-upload-api-migration/SKILL.md) | Vidnoz 上传链路接口迁移，将旧 `ai/source/*` 调用规范化为 `apiGetUploadUrl` / `apiUploadFileWithSign` |
+| [tools-templates-builder](skills/tools-templates-builder/SKILL.md) | `tools-templates` 多品牌前端仓库（vidqu / vidnoz / ismartta / vidmud）的页面开发与统一构建 |
 
 ## 目录结构
 
